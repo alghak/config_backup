@@ -1,3 +1,8 @@
-zxj.xing's first github repo, for learning.
-some modifications..
-eof
+github repo for config backup.
+
+contains:
+
+1. vim
+    some plugins, e.g. taglist, conque_term, snippet, ..
+
+2. ..
