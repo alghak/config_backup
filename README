@@ -1,8 +1,8 @@
-github repo for config backup.
+config files backup repo.
 
 contains:
 
-1. vim
-    some plugins, e.g. taglist, conque_term, snippet, ..
+1. vim config
+    vimrc & some plugins, e.g. taglist, conque_term, snippet, ..
 
 2. ..
