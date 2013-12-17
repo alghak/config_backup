@@ -3,6 +3,6 @@ config files backup repo.
 contains:
 
 1. vim config
-    vimrc & some plugins, e.g. taglist, conque_term, snippet, ..
+    vimrc & some plugins, e.g. taglist, conque_term, snippet, python-indent, ..
 
 2. ..
